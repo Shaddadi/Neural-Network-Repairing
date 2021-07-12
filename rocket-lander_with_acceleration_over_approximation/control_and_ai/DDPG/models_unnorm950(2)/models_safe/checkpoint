@@ -1,0 +1,6 @@
+model_checkpoint_path: "DDPG_safe.ckpt-15"
+all_model_checkpoint_paths: "../15/DDPG_unsafe.ckpt-1"
+all_model_checkpoint_paths: "../15/DDPG_unsafe.ckpt-2"
+all_model_checkpoint_paths: "../15/DDPG_unsafe.ckpt-3"
+all_model_checkpoint_paths: "../15/DDPG_unsafe.ckpt-4"
+all_model_checkpoint_paths: "DDPG_safe.ckpt-15"
